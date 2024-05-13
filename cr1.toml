@@ -1,0 +1,1 @@
+con=pymongo.MongoClient("mongodb://Vignesh:Vignesh3@ac-dsiib9v-shard-00-00.fvjkqe9.mongodb.net:27017,ac-dsiib9v-shard-00-01.fvjkqe9.mongodb.net:27017,ac-dsiib9v-shard-00-02.fvjkqe9.mongodb.net:27017/?ssl=true&replicaSet=atlas-l1j7no-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0")
